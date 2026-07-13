@@ -23,16 +23,33 @@
 **Security & Networking**<br>
 `Nmap` `CVE Analysis` `Vulnerability Assessment` `Bettercap` `Network Scanning` `Security Reporting`<br><br>
 **Deployment**<br>
-`Git` `Vercel` `Cloudflare Workers` `SELinux` `firewalld` `DNF / APT`<br><br><br>  Featured Projects<br><br>ProjectWhat It DoesTurboTuneSQL GUI InstallerPython desktop installer replacing terminal-heavy enterprise SQL workflows. Shipped to a US enterprise client.TurboTuneSQL RHEL CLIRHEL 9/10 deployment automation with MariaDB selection, SELinux-aware execution, and firewalld rules.TurboTune ROI EngineEnterprise pricing and ROI calculator — React + Node.js, 23 MSU pricing bands, PDF quote generation, PWA.Affinity on Linux InstallerCross-distro Linux installer for Windows creative apps via Wine. Supports Ubuntu, Fedora, and Arch.Essence Luxe E-CommerceFull-stack commerce platform built with Next.js 14, Prisma, Supabase, and custom HMAC-SHA256 admin auth.NAVT - Network Vulnerability ToolkitFinal year project. Nmap-driven host discovery, CVE matching, DoS simulation lab, Matplotlib dashboards.<br><br><br>📜 Certifications<br><br><br>Google Cybersecurity Specialization — Coursera (2024)<br>Generative AI Essentials for Cybersecurity — IBM / Coursera (2024)<br>Hardware and Operating System Essentials — IBM / Coursera (2024)<br>AI for Everyone — DeepLearning.AI (2025)<br>Client Project Completion Certificate — Verified (2025)
+`Git` `Vercel` `Cloudflare Workers` `SELinux` `firewalld` `DNF / APT`<br><br>
+
+<br>
+
+##  Featured Projects
+
+| Project | What It Does |
+|---|---|
+| **TurboTuneSQL GUI Installer** | Python desktop installer replacing terminal-heavy enterprise SQL workflows. Shipped to a US enterprise client. |
+| **TurboTuneSQL RHEL CLI** | RHEL 9/10 deployment automation with MariaDB selection, SELinux-aware execution, and firewalld rules. |
+| **TurboTune ROI Engine** | Enterprise pricing and ROI calculator — React + Node.js, 23 MSU pricing bands, PDF quote generation, PWA. |
+| **Affinity on Linux Installer** | Cross-distro Linux installer for Windows creative apps via Wine. Supports Ubuntu, Fedora, and Arch. |
+| **Essence Luxe E-Commerce** | Full-stack commerce platform built with Next.js 14, Prisma, Supabase, and custom HMAC-SHA256 admin auth. |
+| **NAVT - Network Vulnerability Toolkit** | Final year project. Nmap-driven host discovery, CVE matching, DoS simulation lab, Matplotlib dashboards. |
+
+<br>
+
+## 📜 Certifications
+
+Google Cybersecurity Specialization — Coursera (2024)<br>
+Generative AI Essentials for Cybersecurity — IBM / Coursera (2024)<br>
+Hardware and Operating System Essentials — IBM / Coursera (2024)<br>
+AI for Everyone — DeepLearning.AI (2025)<br>
+Client Project Completion Certificate — Verified (2025)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-yaqoob-50a537260) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hamzayaqoob.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaqoob.hamza.dev@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://portfolio.hamzayaqoob127.workers.dev/)
-
-<div align="center">
-
-
-
-</div>
 
 # 📊 GitHub Stats:
 <table>
